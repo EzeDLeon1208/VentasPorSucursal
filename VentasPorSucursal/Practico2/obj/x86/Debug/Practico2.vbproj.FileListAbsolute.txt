@@ -1,0 +1,9 @@
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\bin\Debug\Practico2.exe
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\bin\Debug\Practico2.pdb
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\bin\Debug\Practico2.xml
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\obj\x86\Debug\Practico2.vbproj.GenerateResource.Cache
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\obj\x86\Debug\Practico2.exe
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\obj\x86\Debug\Practico2.xml
+C:\Users\LeonCuervo\Desktop\Analisis de Sistemas ISFT 172\Practicos EDI\Practico2\Practico2\obj\x86\Debug\Practico2.pdb
